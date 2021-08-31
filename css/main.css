@@ -2,12 +2,10 @@
    Your custom CSS styles
    ========================================================================== */
 
-
-
-
-
-
-
+body {
+  background-color: lightgrey;
+  color: blue;
+}
 
 /* ==========================================================================
    Your custom CSS styles for smartphones and screens smaller than 480 px
